@@ -9,5 +9,5 @@ services:
       - ./data:/var/lib/postgresql/data
     environment:
       - POSTGRES_USER=app
-      - POSTGRES_PASSWORD=9mREsvXDs9Gk89Ef
-      - POSTGRES_DВ=app
+      - POSTGRES_PASSWORD=9mREsvXDs9Gk89Docker
+      - POSTGRES_DB=app
